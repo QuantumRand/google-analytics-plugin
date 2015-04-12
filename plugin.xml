@@ -43,7 +43,7 @@
   </platform>
 
   <platform name="android">
-    <dependency id="com.google.playservices@latest" />
+    <dependency id="com.google.playservices@21.0.0" />
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="UniversalAnalytics">
